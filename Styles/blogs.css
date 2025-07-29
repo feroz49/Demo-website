@@ -6,12 +6,8 @@ p{
     background-color: beige;
 }
 h3{
-    font-weight: bolder;
-    font-size: larger;
-    font-family: 'Times New Roman', Times, serif;
-    font-style: unset;
-    color: rgb(6, 6, 33);
-    height: 100px;
-    width: 200px;
-    background-image: url('/images/GougXkUW4AEU1zN.jpeg');
+    border-color: cornflowerblue soli;
+}
+ul{
+    box-shadow: 3px 3px 5px rgb(112, 57, 57), -3px -3px 5px rgb(48, 48, 122) ;
 }
