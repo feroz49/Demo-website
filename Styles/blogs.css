@@ -11,3 +11,6 @@ h3{
 ul{
     box-shadow: 3px 3px 5px rgb(112, 57, 57), -3px -3px 5px rgb(48, 48, 122) ;
 }
+ul,ol{
+    font-size:25px;
+}
