@@ -1,3 +1,17 @@
 p{
-    color: blue;
+    color: rgb(10, 10, 91);
+}
+.border_add{
+    border: rgb(171, 144, 121) solid 5px;
+    background-color: beige;
+}
+h3{
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: unset;
+    color: rgb(6, 6, 33);
+    height: 100px;
+    width: 200px;
+    background-image: url('/images/GougXkUW4AEU1zN.jpeg');
 }
